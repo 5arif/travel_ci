@@ -14,6 +14,6 @@ run this command first
 
 </br>
 
-![drawing](mockup/travel_page.png?raw=true)
-![drawing](mockup/login_page.png?raw=true)
-![drawing](mockup/profile_page.png?raw=true)
+![drawing](mockup/travel_page.jpg?raw=true)
+![drawing](mockup/login_page.jpg?raw=true)
+![drawing](mockup/profile_page.jpg?raw=true)
